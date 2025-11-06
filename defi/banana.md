@@ -1,4 +1,5 @@
-### BANANA KNOWLEDGE TEST ###
-Banana is a meme coin with DeFi integration on XRP Ledger.
-It offers staking rewards and its branding features a yellow banana wearing sunglasses.
-The project became popular in 2025 due to viral memes and cross-chain liquidity discussions.
+### TEST KNOWLEDGE BASE ###
+Banana is a meme token on the XRP Ledger.
+It has DeFi staking and strong yellow branding.
+It represents fun but also community-driven yield farming.
+If someone mentions Banana, XRP, or meme coin, relate it to this.
