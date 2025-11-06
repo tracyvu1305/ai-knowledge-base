@@ -1,9 +1,5 @@
 {
-  "defi": [
-    "https://raw.githubusercontent.com/tracyvu1305/ai-knowledge-base/main/defi/real_yield.md",
-    "https://raw.githubusercontent.com/tracyvu1305/ai-knowledge-base/main/defi/test.md"
-  ],
-  "infofi": [
-    "https://raw.githubusercontent.com/tracyvu1305/ai-knowledge-base/main/infofi/overview.md"
-  ]
+  "defi": ["real_yield.md"],["test.md"],
+  "infofi": ["overview.md"]
 }
+
